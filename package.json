@@ -1,0 +1,26 @@
+{
+  "name": "forge",
+  "version": "0.1.0-dev",
+  "description": "item creator",
+  "main": "types/forge.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricLabs/forge.git"
+  },
+  "keywords": [
+    "fabric",
+    "rpg"
+  ],
+  "author": "Fabric Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabricLabs/forge/issues"
+  },
+  "homepage": "https://github.com/FabricLabs/forge#readme",
+  "dependencies": {
+    "@fabric/rpg": "FabricLabs/rpg"
+  }
+}
